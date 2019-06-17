@@ -1,0 +1,5 @@
+mybatis:
+  
+  configuration:
+   
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl   #设置显示sql语句
